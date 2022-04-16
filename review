@@ -1,3 +1,4 @@
+
 read -p " enter 1st no: " a
 read -p " enter 2nd no: "b
 
