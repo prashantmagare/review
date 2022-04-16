@@ -1,0 +1,16 @@
+read -p " enter 1st no: " a
+read -p " enter 2nd no: "b
+
+op1=$((a+b))
+op2=$((a-b))
+op3=$((a/b))
+op4=$((a*b))
+
+echo "1.((a+b)): $op1"
+echo "2.((a-b)): $op2"
+echo "3.((a/b)): $op3"
+echo "4.((a*b)): $op4"
+if [ $op1 -a $op2 -b $op3 -a $op$ -b ]
+else
+     "value of op is 1 to 4"
+fi
